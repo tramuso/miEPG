@@ -14,7 +14,6 @@ Telemadrid,Telemadrid
 24 Horas,24 Horas
 M+ Series HD,M+ Series
 AXN HD,AXN
-AMC HD,AMC
 Warner TV HD,Warner TV
 STAR Channel HD,STAR Channel
 SkyShowtime,SkyShowtime 1
@@ -67,12 +66,9 @@ Odisea,Odisea
 Movistar Plus+ HD,Movistar Plus+
 Movistar Plus+ 2 HD,Movistar Plus+ 2
 M+ Originales HD,M+ Originales
-M+ Anime,M+ Especiales
+M+ Frank Capra,M+ Especiales
 La Resistencia 24H,La Resistencia 24H
 Comedy Central HD,Comedy Central
-Enfamilia,Enfamilia
-AMC Break,AMC Break
-AMC Crime,AMC Crime
 DMAX,DMAX
 DKISS,DKISS
 Mega,Mega
