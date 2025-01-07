@@ -43,7 +43,6 @@ Somos,Somos
 Be Mad,Be Mad
 Paramount Network,Paramount Network
 BOM Cine,BOM Cine
-Disney Channel HD,Disney Channel
 Disney Junior,Disney Junior
 Nick JR,Nick JR
 Nickelodeon HD,Nickelodeon
@@ -73,8 +72,6 @@ DMAX,DMAX
 DKISS,DKISS
 Mega,Mega
 Ten,Ten
-Canal Cocina,Canal Cocina
-Decasa,Decasa
 Caza y Pesca HD,Caza y Pesca
 Iberalia TV,Iberalia TV
 Onetoro,Onetoro
