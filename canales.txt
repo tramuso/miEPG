@@ -34,11 +34,10 @@ M+ Indie HD,M+ Indie
 M+ Clásicos HD,M+ Clásicos
 M+ Cine Español,M+ Cine Español
 TCM HD,TCM
+BBC Drama,BBC Drama
 Canal Hollywood HD,Hollywood
 XTRM,XTRM
 AXN Movies HD,AXN Movies
-Sundance TV,Sundance TV
-DARK,DARK
 Somos,Somos
 Be Mad,Be Mad
 Paramount Network,Paramount Network
@@ -59,16 +58,17 @@ Classica HD,Classica
 M+ Documentales HD,M+ Documentales
 National Geographic HD,National Geographic
 Nat Geo Wild HD,Nat Geo Wild
-Historia,Historia
+BBC History,BBC History
 Discovery,Discovery
 Odisea,Odisea
 Movistar Plus+ HD,Movistar Plus+
 Movistar Plus+ 2 HD,Movistar Plus+ 2
 M+ Originales HD,M+ Originales
-M+ Frank Capra,M+ Especiales
 La Resistencia 24H,La Resistencia 24H
 Comedy Central HD,Comedy Central
 DMAX,DMAX
+BBC Food,BBC Food
+BBC Top Gear,BBC Top Gear
 DKISS,DKISS
 Mega,Mega
 Ten,Ten
@@ -100,6 +100,8 @@ GOL PLAY,GOL PLAY
 Real Madrid TV,Real Madrid TV
 M+ Copa del Rey,M+ Copa del Rey
 LaLiga TV BAR HD,LaLiga TV BAR
+LaLiga TV BAR 2,LaLiga TV BAR 2
+LaLiga TV BAR 3,LaLiga TV BAR 3
 M+ LaLiga TV HD,M+ LaLiga TV
 M+ LaLiga TV 2 HD,M+ LaLiga TV 2
 M+ LaLiga TV 3 HD,M+ LaLiga TV 3
