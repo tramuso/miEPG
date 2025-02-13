@@ -12,7 +12,7 @@ TVG,TVG
 Canal Extremadura,Extremadura
 Telemadrid,Telemadrid
 24 Horas,24 Horas
-M+ Hits HD,M+ Series
+M+ Hits HD,M+ Hits
 AMC HD,AMC
 AXN HD,AXN
 Warner TV HD,Warner TV
@@ -27,7 +27,7 @@ Neox,Neox
 Nova,Nova
 Divinity,Divinity
 Atreseries,Atreseries
-M+ Estrenos HD,M+ Cine
+M+ Estrenos HD,M+ Estrenos
 M+ Acción HD,M+ Acción
 M+ Drama HD,M+ Drama
 M+ Comedia HD,M+ Comedia
