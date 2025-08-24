@@ -92,12 +92,13 @@ Iberalia caza,Iberalia 100% Caza
 Iberalia pesca,Iberalia 100% Pesca
 Onetoro,Onetoro
 Torolé TV,Torolé TV
+El Toro TV,El Toro TV
+Negocios TV,Negocios TV
 DMAX,DMAX
 DKISS,DKISS
 Mega,Mega
 Ten,Ten
 TRECE,TRECE
-Negocios TV,Negocios TV
 M+ Vamos HD,M+ Vamos
 M+ Ellas Vamos HD,M+ Ellas Vamos
 M+ Golf HD,M+ Golf
