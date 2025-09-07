@@ -137,6 +137,7 @@ DAZN LaLiga 5,DAZN LaLiga 5
 LaLiga TV Hypermotion HD,LaLiga TV Hypermotion
 LaLiga TV Hypermotion 2,LaLiga TV Hypermotion 2
 LaLiga TV Hypermotion 3,LaLiga TV Hypermotion 3
+Primera Federación,Primera Federación
 M+ Liga de Campeones HD,M+ Liga de Campeones
 M+ Liga de Campeones 2 HD,M+ Liga de Campeones 2
 M+ Liga de Campeones 3 HD,M+ Liga de Campeones 3
