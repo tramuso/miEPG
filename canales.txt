@@ -17,6 +17,7 @@ AMC HD,AMC
 AXN HD,AXN
 Warner TV HD,Warner TV
 STAR Channel HD,STAR Channel
+HBO Max Avances,HBO Max Avances
 BBC Drama,BBC Drama
 SyFy HD,SyFy
 Calle 13 HD,Calle 13
