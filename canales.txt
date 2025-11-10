@@ -17,7 +17,7 @@ AXN HD,AXN
 Warner TV HD,Warner TV
 STAR Channel HD,STAR Channel
 HBO Max Avances,HBO Max Avances
-BBC Drama,BBC Drama
+BBC Series,BBC Series
 SyFy HD,SyFy
 Calle 13 HD,Calle 13
 Cosmo HD,Cosmo
@@ -67,6 +67,7 @@ National Geographic HD,National Geographic
 Nat Geo Wild HD,Nat Geo Wild
 Historia,Historia
 BBC History,BBC History
+BBC Earth,BBC Earth
 Discovery,Discovery
 Odisea,Odisea
 Movistar Plus+ HD,Movistar Plus+
@@ -77,7 +78,6 @@ Comedy Central HD,Comedy Central
 Enfamilia,Enfamilia
 AMC Break,AMC Break
 AMC Crime,AMC Crime
-BBC Food,BBC Food
 Canal Cocina,Canal Cocina
 Decasa,Decasa
 Escapa TV,Escapa TV
@@ -87,6 +87,9 @@ DBike,DBIKE
 UBEAT,UBEAT
 REKTV,REKTV
 Moto ADV,MOTO ADV
+BBC World News Europe HD,BBC News
+BBC Lifestyle,BBC Lifestyle
+BBC Food,BBC Food
 BBC Top Gear,BBC Top Gear
 Caza y Pesca HD,Caza y Pesca
 Iberalia TV,Iberalia TV
