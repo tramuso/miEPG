@@ -105,6 +105,7 @@ Mega,Mega
 Ten,Ten
 TRECE,TRECE
 M+ Vamos HD,M+ Vamos
+M+ Vamos 2,M+ Vamos 2
 M+ Ellas Vamos HD,M+ Ellas Vamos
 M+ Golf HD,M+ Golf
 Teledeporte,Teledeporte
