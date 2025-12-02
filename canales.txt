@@ -29,7 +29,7 @@ Divinity,Divinity
 Atreseries,Atreseries
 M+ Estrenos HD,M+ Estrenos
 M+ Hits HD,M+ Hits
-M+ Romance,M+ Romance
+M+ En juego,M+ En juego
 M+ Acción HD,M+ Acción
 M+ Drama HD,M+ Drama
 M+ Comedia HD,M+ Comedia
