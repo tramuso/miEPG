@@ -129,6 +129,7 @@ M+ Copa del Rey,M+ Copa del Rey
 LaLiga TV BAR HD,LaLiga TV BAR
 LaLiga TV BAR 2,LaLiga TV BAR 2
 LaLiga TV BAR 3,LaLiga TV BAR 3
+M+ LaLiga HD,M+ LaLiga TV Extra
 M+ LaLiga HD,M+ LaLiga TV
 M+ LaLiga 2 HD,M+ LaLiga TV 2
 M+ LaLiga 3 HD,M+ LaLiga TV 3
