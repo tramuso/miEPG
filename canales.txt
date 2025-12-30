@@ -118,6 +118,9 @@ M+ Deportes 4,M+ Deportes 4
 M+ Deportes 5,M+ Deportes 5
 M+ Deportes 6,M+ Deportes 6
 M+ Deportes 7,M+ Deportes 7
+DAZN Baloncesto,DAZN Baloncesto
+DAZN Baloncesto 2,DAZN Baloncesto 2
+DAZN Baloncesto 3,DAZN Baloncesto 3
 DAZN 1 HD,DAZN 1
 DAZN 2 HD,DAZN 2
 DAZN 3 HD,DAZN 3
