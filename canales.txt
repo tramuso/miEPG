@@ -47,6 +47,8 @@ Be Mad,Be Mad
 BOM Cine,BOM Cine
 Squirrel TV,Squirrel
 Paramount Network,Paramount Network
+Canal FlixOlé 1,Canal FlixOlé 1
+Canal FlixOlé 2,Canal FlixOlé 2
 Disney Junior,Disney Junior
 Nick JR,Nick JR
 Nickelodeon HD,Nickelodeon
