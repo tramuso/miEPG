@@ -113,6 +113,7 @@ M+ Vamos HD,M+ Vamos
 M+ Vamos 2,M+ Vamos 2
 M+ Ellas Vamos HD,M+ Ellas Vamos
 M+ Golf HD,M+ Golf
+M+ Golf 2 HD,M+ Golf 2
 Teledeporte,Teledeporte
 Eurosport 1 HD,Eurosport 1
 Eurosport 2,Eurosport 2
