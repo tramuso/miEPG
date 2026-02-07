@@ -95,6 +95,7 @@ BBC World News Europe HD,BBC News
 BBC Lifestyle,BBC Lifestyle
 BBC Food,BBC Food
 BBC Top Gear,BBC Top Gear
+Cazavisión,Cazavisión
 Caza y Pesca HD,Caza y Pesca
 Iberalia TV,Iberalia TV
 Iberalia caza,Iberalia 100% Caza
