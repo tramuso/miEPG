@@ -16,6 +16,7 @@ AMC HD,AMC
 AXN HD,AXN
 Warner TV HD,Warner TV
 STAR Channel HD,STAR Channel
+SkyShowtime,SkyShowtime 1
 HBO Max Avances,HBO Max Avances
 BBC Series,BBC Series
 SyFy HD,SyFy
@@ -46,6 +47,7 @@ Somos,Somos
 Be Mad,Be Mad
 BOM Cine,BOM Cine
 Squirrel TV,Squirrel
+Squirrel 2,Squirrel 2
 Paramount Network,Paramount Network
 Canal FlixOlé 1,Canal FlixOlé 1
 Canal FlixOlé 2,Canal FlixOlé 2
