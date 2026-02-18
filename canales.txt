@@ -28,9 +28,9 @@ Neox,Neox
 Nova,Nova
 Divinity,Divinity
 Atreseries,Atreseries
+M+ Oscars,M+ Oscars
 M+ Estrenos HD,M+ Estrenos
 M+ Hits HD,M+ Hits
-M+ En juego,M+ En juego
 M+ Acción HD,M+ Acción
 M+ Drama HD,M+ Drama
 M+ Comedia HD,M+ Comedia
@@ -48,7 +48,6 @@ Be Mad,Be Mad
 BOM Cine,BOM Cine
 Squirrel TV,Squirrel
 Squirrel 2,Squirrel 2
-Paramount Network,Paramount Network
 Canal FlixOlé 1,Canal FlixOlé 1
 Canal FlixOlé 2,Canal FlixOlé 2
 Disney Junior,Disney Junior
@@ -75,7 +74,6 @@ BBC Earth,BBC Earth
 Discovery,Discovery
 Odisea,Odisea
 Movistar Plus+ HD,Movistar Plus+
-Movistar Plus+ 2 HD,Movistar Plus+ 2
 M+ Originales HD,M+ Originales
 La Resistencia 24H,La Resistencia 24H
 Comedy Central HD,Comedy Central
