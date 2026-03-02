@@ -46,6 +46,7 @@ DARK,DARK
 Somos,Somos
 Be Mad,Be Mad
 BOM Cine,BOM Cine
+acontra+,acontra+
 Squirrel TV,Squirrel
 Squirrel 2,Squirrel 2
 Canal FlixOlé 1,Canal FlixOlé 1
