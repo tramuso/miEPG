@@ -48,6 +48,7 @@ Somos,Somos
 Be Mad,Be Mad
 BOM Cine,BOM Cine
 acontra+,acontra+
+AMC Western,AMC Western
 Squirrel TV,Squirrel
 Squirrel 2,Squirrel 2
 Canal FlixOlé 1,Canal FlixOlé 1
@@ -83,7 +84,7 @@ Enfamilia,Enfamilia
 AMC Break,AMC Break
 AMC Crime,AMC Crime
 Canal Cocina,Canal Cocina
-Decasa,Decasa
+AMC Living,AMC Living
 Escapa TV,Escapa TV
 BuenViaje,BUEN VIAJE
 Surf Channel,SURF
