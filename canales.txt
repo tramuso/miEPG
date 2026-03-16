@@ -29,7 +29,7 @@ Nova,Nova
 Divinity,Divinity
 Atreseries,Atreseries
 M+ Oscars,M+ Oscars
-M+ Los Goya,M+ Los Goya
+M+ Los 2000,M+ Los 2000
 M+ Estrenos HD,M+ Estrenos
 M+ Hits HD,M+ Hits
 M+ Acción HD,M+ Acción
