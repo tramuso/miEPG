@@ -112,7 +112,7 @@ Ten,Ten
 TRECE,TRECE
 M+ Vamos HD,M+ Vamos
 M+ Vamos 2,M+ Vamos 2
-M+ Ellas Vamos HD,M+ Ellas Vamos
+M+ Vamos 3,M+ Vamos 3
 M+ Golf HD,M+ Golf
 M+ Golf 2 HD,M+ Golf 2
 Teledeporte,Teledeporte
