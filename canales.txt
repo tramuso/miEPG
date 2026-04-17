@@ -53,7 +53,7 @@ Squirrel TV,Squirrel
 Squirrel 2,Squirrel 2
 Canal FlixOlé 1,Canal FlixOlé 1
 Canal FlixOlé 2,Canal FlixOlé 2
-Disney Junior,Disney Junior
+Disney Channel,Disney Channel
 Nick JR,Nick JR
 Nickelodeon HD,Nickelodeon
 Dreamworks HD,Dreamworks
