@@ -30,6 +30,7 @@ Divinity,Divinity
 Atreseries,Atreseries
 M+ Oscars,M+ Oscars
 M+ Los 2000,M+ Los 2000
+M+ Top Comedia Española,M+ Comedia Española
 M+ Estrenos HD,M+ Estrenos
 M+ Hits HD,M+ Hits
 M+ Acción HD,M+ Acción
