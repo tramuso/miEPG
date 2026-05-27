@@ -28,8 +28,8 @@ Neox,Neox
 Nova,Nova
 Divinity,Divinity
 Atreseries,Atreseries
-M+ Oscars,M+ Oscars
-M+ Los 2000,M+ Los 2000
+M+ Orgullo,M+ Orgullo
+M+ Vacaciones,M+ Vacaciones
 M+ Top Comedia Española,M+ Comedia Española
 M+ Estrenos HD,M+ Estrenos
 M+ Hits HD,M+ Hits
@@ -138,10 +138,7 @@ DAZN F1 HD,DAZN F1
 GOL,GOL PLAY
 Real Madrid TV,Real Madrid TV
 M+ Copa del Rey,M+ Copa del Rey
-LaLiga TV BAR HD,LaLiga TV BAR
-LaLiga TV BAR 2,LaLiga TV BAR 2
-LaLiga TV BAR 3,LaLiga TV BAR 3
-M+ LaLiga HD,M+ LaLiga TV Xtra
+M+ Fanzone,M+ Fanzone
 M+ LaLiga HD,M+ LaLiga TV
 M+ LaLiga 2 HD,M+ LaLiga TV 2
 M+ LaLiga 3 HD,M+ LaLiga TV 3
