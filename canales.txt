@@ -150,7 +150,10 @@ DAZN LaLiga HD,DAZN LaLiga
 DAZN LaLiga 2 HD,DAZN LaLiga 2
 DAZN LaLiga 3,DAZN LaLiga 3
 DAZN LaLiga 4,DAZN LaLiga 4
-DAZN LaLiga 5,DAZN LaLiga 5
+DAZN Mundial HD,DAZN Mundial
+DAZN Mundial 2 HD,DAZN Mundial 2
+DAZN Mundial 3,DAZN Mundial 3
+DAZN Mundial 4,DAZN Mundial 4
 LaLiga TV Hypermotion HD,LaLiga TV Hypermotion
 LaLiga TV Hypermotion 2,LaLiga TV Hypermotion 2
 LaLiga TV Hypermotion 3,LaLiga TV Hypermotion 3
