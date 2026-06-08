@@ -21,6 +21,7 @@ HBO Max Avances,HBO Max Avances
 BBC Series,BBC Series
 SyFy HD,SyFy
 Calle 13 HD,Calle 13
+Veo7,Veo7
 Cosmo HD,Cosmo
 Energy,Energy
 Factoría de Ficción,Factoría de Ficción
