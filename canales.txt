@@ -78,7 +78,7 @@ BBC History,BBC History
 BBC Earth,BBC Earth
 Discovery,Discovery
 Odisea,Odisea
-Movistar Plus+ HD,Movistar Plus+
+Movistar Plus HD,Movistar Plus+
 M+ Originales HD,M+ Originales
 La Resistencia 24H,La Resistencia 24H
 Comedy Central HD,Comedy Central
