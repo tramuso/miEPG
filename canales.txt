@@ -31,6 +31,7 @@ Divinity,Divinity
 Atreseries,Atreseries
 M+ Orgullo,M+ Orgullo
 M+ Vacaciones,M+ Vacaciones
+M+ Terror,M+ Terror
 M+ Top Comedia Española,M+ Comedia Española
 M+ Estrenos HD,M+ Estrenos
 M+ Hits HD,M+ Hits
