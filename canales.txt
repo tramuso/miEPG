@@ -118,6 +118,11 @@ M+ Vamos 2,M+ Vamos 2
 M+ Vamos 3,M+ Vamos 3
 M+ Golf HD,M+ Golf
 M+ Golf 2 HD,M+ Golf 2
+M+ Baloncesto,M+ Baloncesto
+M+ Baloncesto 2,M+ Baloncesto 2
+M+ Baloncesto 3,M+ Baloncesto 3
+M+ Baloncesto 4,M+ Baloncesto 4
+M+ Baloncesto 5,M+ Baloncesto 5
 Teledeporte,Teledeporte
 Eurosport 1 HD,Eurosport 1
 Eurosport 2,Eurosport 2
